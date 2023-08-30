@@ -8,4 +8,4 @@ My personal and school projects have given me the opportunity to work with vario
 
 I'm on the lookout for a work-study placement for my second year at BUT MMI.🔍
 
-Take a look at [my work](https://www.clariocadran.com/)! 👀
+Take a look at [my work](https://www.clariocadran.com/) ! 👀
