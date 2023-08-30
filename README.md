@@ -1,4 +1,4 @@
-# Hello 👋
+## Hello 👋
 
 I'm Clario, a junior front-end developer, always looking for the best way to create engaging digital experiences.
 
