@@ -6,6 +6,6 @@ Currently learning Three.js with Bruno Simon's course🚀, I completed an intern
 
 My personal and school projects have given me the opportunity to work with various technologies such as NodeJs, Tailwind, Ruby on Rails, SCSS, and PHP...
 
-I'm on the lookout for a work-study placement for my second year at BUT MMI.🔍
+I'm on the lookout for an internship for my second year at BUT MMI.🔍
 
 Take a look at [my work](https://www.clariocadran.com/) ! 👀
