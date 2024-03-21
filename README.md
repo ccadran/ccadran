@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Clario, a junior front-end developer, always looking for the best way to create engaging digital experiences.🌱
+I'm Clario, a front-end developer, always looking for the best way to create engaging digital experiences.🌱
 
 Currently learning Three.js with Bruno Simon's course🚀, I completed an internship where I perfected my React skills by completely redesigning a [school website](https://lenvoldespapillons33.fr/) ! 💼
 
