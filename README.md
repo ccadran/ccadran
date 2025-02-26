@@ -9,4 +9,4 @@ I love learning so I'm constantly doing new projects to learn or reinforce knowl
 Take a look at [my work](https://www.clariocadran.com/) ! 👀
 
 
-Daily stack: Nuxt, Three.js, Gsap, Scss, Webflow
+Daily stack: Nuxt, Three.js, Gsap, Typescript, Webflow
